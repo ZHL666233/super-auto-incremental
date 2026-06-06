@@ -1,0 +1,7 @@
+# Godot
+.godot/
+export/
+
+# OS
+.DS_Store
+Thumbs.db
